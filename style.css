@@ -1,0 +1,26 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+nav{
+    text-align: end;
+}
+.container{
+    display: grid;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 0.5em;
+    background-color: lightgrey;
+    margin: 20px;
+    width: 50%;
+}
+
+
+footer{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+}
